@@ -1,0 +1,9 @@
+c:\users\marco\documents\visual studio 2012\Projects\Projet C_Sharp\Projet C_Sharp\bin\Debug\Projet C_Sharp.exe.config
+C:\Users\MARCO\Documents\Visual Studio 2012\Projects\Projet C_Sharp\Projet C_Sharp\obj\Debug\Projet C_Sharp.csprojResolveAssemblyReference.cache
+C:\Users\MARCO\Documents\Visual Studio 2012\Projects\Projet C_Sharp\Projet C_Sharp\obj\Debug\Projet_C_Sharp.Form1.resources
+C:\Users\MARCO\Documents\Visual Studio 2012\Projects\Projet C_Sharp\Projet C_Sharp\obj\Debug\Projet_C_Sharp.Properties.Resources.resources
+C:\Users\MARCO\Documents\Visual Studio 2012\Projects\Projet C_Sharp\Projet C_Sharp\obj\Debug\Projet C_Sharp.csproj.GenerateResource.Cache
+C:\Users\MARCO\Documents\Visual Studio 2012\Projects\Projet C_Sharp\Projet C_Sharp\bin\Debug\Projet C_Sharp.exe
+C:\Users\MARCO\Documents\Visual Studio 2012\Projects\Projet C_Sharp\Projet C_Sharp\bin\Debug\Projet C_Sharp.pdb
+C:\Users\MARCO\Documents\Visual Studio 2012\Projects\Projet C_Sharp\Projet C_Sharp\obj\Debug\Projet C_Sharp.exe
+C:\Users\MARCO\Documents\Visual Studio 2012\Projects\Projet C_Sharp\Projet C_Sharp\obj\Debug\Projet C_Sharp.pdb
