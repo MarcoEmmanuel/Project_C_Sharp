@@ -72,18 +72,20 @@ namespace Projet_C_Sharp
         }
 
         // Mise en place des codes des noeuds de l'arbre
-        public void MettreCodeDeArbre(string code, Noeud noeud)
+        public void MettreCodeDeArbre(string code, Noeud noeud, out Noeud noeudS)
         {
+            noeudS = noeud;
             if (noeud == null)
                 return;
             if (noeud.NoeudGauche == null && noeud.NoeudDroit == null)
             {
                 noeud.Code = code;
+                noeudS.Code = code;
                 return;
             }
 
-            MettreCodeDeArbre(code + "0", noeud.NoeudGauche);
-            MettreCodeDeArbre(code + "1",noeud.NoeudDroit);
+            MettreCodeDeArbre(code + "0", noeud.NoeudGauche,out noeudS);
+            MettreCodeDeArbre(code + "1",noeud.NoeudDroit, out noeudS);
         }
 
 
